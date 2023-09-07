@@ -1,5 +1,5 @@
 # ignore Model
-sentimentAnalysisModel.H5
+sentimentAnalysisModel
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
