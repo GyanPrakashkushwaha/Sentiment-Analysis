@@ -1,5 +1,8 @@
 # Sentiment-Analysis
 
+## Web Demo
+![Screenshot (67)](https://github.com/GyanPrakashkushwaha/Sentiment-Analysis/assets/127115588/31919ef4-a7ec-4e54-b308-1eb56c92e55b)
+
 
 ## About
 
