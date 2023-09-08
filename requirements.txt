@@ -1,0 +1,6 @@
+keras
+streamlit
+nltk
+numpy
+pandas
+bs4
