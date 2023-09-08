@@ -34,10 +34,10 @@ pip install -r requirments.txt
 ```
 
 5.run the files in sequence:
-i.text preprocessing
-ii.data preprocessing for training
-iii.model training (from this file you will have SentimentAnalysis Model)
-iv.using model
+- text preprocessing
+- data preprocessing for training
+- model training (from this file you will have SentimentAnalysis Model)
+- using model
 
 
 
